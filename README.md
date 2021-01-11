@@ -34,8 +34,10 @@ I love being challenged with great teams & developers out there and trying new t
 * Dancing am a really bad dancer haha
 
 
+
 I can write any thing tham am familiar with **android** , **bash** ,**networking** using **java** and **kotlin** and more i havent mention. 
 
+### stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=azim254&show_icons=true&count_private=true" />
