@@ -1,16 +1,46 @@
-### Hi there 👋
+# azim konrad
 
-<!--
-**azim254/azim254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋,
 
-Here are some ideas to get you started:
+hello there am siple and calm I dont know how to describe myself haha but ill try :expressionless:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ---
+ 
+ <p>
+  <img width="200" align='left' src=https://avatars1.githubusercontent.com/u/62057152?s=400&u=52c29a26311f4c06f8b7c8b7f5fc366852d366d9&v=4">
+</p>
+ 
+### The opensource254
+
+I love open source.I lik contributing to project & solving issues that other people might come acrross 
+
+I love being challenged with great teams & developers out there and trying new thing i have always desire to be the 1st one to try new things
+
+ [opensource254](https://opensource.254) Kenyan org that is looking for opensource ethusiast  interested in contributing to opensource and other projects. We give you a chance to increase your collaboration skills
+
+ ---
+
+<p>
+  <img />
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://image.freepik.com/free-vector/work-time-concept-illustration_114360-1074.jpg"></a>
+</p>
+
+### What i do and like:alien:
+. 
+* Traveling & hikes :bike:
+* non-mainstream music Big FuN favorite artist 🤓(Tobu,Elektronomia,TheFatrat )
+* Computer Games
+* Dancing am a really bad dancer haha
+
+
+I can write any thing tham am familiar with **android** , **bash** ,**networking** using **java** and **kotlin** and more i havent mention. 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=azim254&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim254&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+
