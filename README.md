@@ -5,7 +5,6 @@ Hey there 👋,
 hello there am siple and calm I dont know how to describe myself haha but ill try :expressionless:.
 
 
-  ---
  
  <p>
   <img width="200" align='left' src=https://avatars1.githubusercontent.com/u/62057152?s=400&u=52c29a26311f4c06f8b7c8b7f5fc366852d366d9&v=4">
@@ -26,6 +25,7 @@ I love being challenged with great teams & developers out there and trying new t
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://image.freepik.com/free-vector/work-time-concept-illustration_114360-1074.jpg"></a>
 </p>
 
+  
 ### What i do and like:alien:
 . 
 * Traveling & hikes :bike:
@@ -36,8 +36,9 @@ I love being challenged with great teams & developers out there and trying new t
 
 
 I can write any thing tham am familiar with **android** , **bash** ,**networking** using **java** and **kotlin** and more i havent mention. 
+ 
+ --- 
 
-### stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=azim254&show_icons=true&count_private=true" />
