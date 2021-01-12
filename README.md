@@ -1,4 +1,6 @@
 # azim konrad
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/verdixsanchez)
+
 
 Hey there 👋,
 
@@ -38,6 +40,7 @@ I love being challenged with great teams & developers out there and trying new t
 I can write any thing tham am familiar with **android** , **bash** ,**networking** using **java** and **kotlin** and more i havent mention. 
  
  --- 
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
