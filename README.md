@@ -1,5 +1,6 @@
 # azim konrad
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/verdixsanchez)
+![](https://komarev.com/ghpvc/?username=your-github-azim254&style=flat-square&color=orange)
 
 
 Hey there 👋,
