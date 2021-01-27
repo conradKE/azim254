@@ -15,7 +15,7 @@ hello there am siple and calm I dont know how to describe myself haha but ill tr
  
 ### The opensource254
 
-I love open source.I lik contributing to project & solving issues that other people might come acrross 
+I love open source.contributing to project & solving issues that other people might come acrross 
 
 I love being challenged with great teams & developers out there and trying new thing i have always desire to be the 1st one to try new things
 
