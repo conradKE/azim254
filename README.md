@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-azim254&style=flat-square&color=orange)
 
 
-Hey there 👋,
+Hello there 👋,
 
 hello there am siple and calm I dont know how to describe myself haha but ill try :expressionless:.
 
