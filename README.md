@@ -30,7 +30,7 @@ I love being challenged with great teams & developers out there and trying new t
 
   
 ### What i do and like:alien:
-. 
+
 * Traveling & hikes :bike:
 * non-mainstream music Big FuN favorite artist 🤓(Tobu,Elektronomia,TheFatrat )
 * Computer Games
