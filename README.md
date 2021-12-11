@@ -1,5 +1,5 @@
 # azim konrad
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/verdixsanchez)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/azim_konrad)
 ![](https://komarev.com/ghpvc/?username=your-github-azim254&style=flat-square&color=orange)
 
 
@@ -28,13 +28,7 @@ I love being challenged with great teams & developers out there and trying new t
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://image.freepik.com/free-vector/work-time-concept-illustration_114360-1074.jpg"></a>
 </p>
 
-  
-### What i do and like:alien:
-
-* Traveling & hikes :bike:
-* non-mainstream music Big FuN favorite artist 🤓(Tobu,Elektronomia,TheFatrat )
-* Computer Games
-* Dancing am a really bad dancer haha
+ 
 
 
 
