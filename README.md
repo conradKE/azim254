@@ -1,4 +1,4 @@
-# azim konrad
+#conrad azim 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/azim_konrad)
 ![](https://komarev.com/ghpvc/?username=your-github-azim254&style=flat-square&color=orange)
 
