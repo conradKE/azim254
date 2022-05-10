@@ -4,7 +4,7 @@
 
 Hello there 👋,
 
-an artist who creates the world
+The artist who creates the world
 
  
 
